@@ -1,5 +1,15 @@
 # GameDatabase
 
+This application will give our users the ability to search games by their
+name and ID. The game will be issued an unique ID and he/she will be able
+to access all data about this game, including genres, game platforms,
+publishers and where their headquarters are located. Also, the user will have
+the abilities to manually add a game to our database and to also add a
+specific genre or game platform to the game. Furthermore, the user will also
+have the ability to update a game’s name, or remove the game from the
+database as deemed fit. The user is also able to view statistics of the sales
+per year of a game.
+
 ## Authors:
 Joseph Mullally, Li Chong Glen Seow and Mark Shomakhov
 
